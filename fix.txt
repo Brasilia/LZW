@@ -1,0 +1,3 @@
+O erro (Abort Trap 6) foi resolvido apenas substituindo, na linha 66 do encoder.c:
+
+66: char cString[1];	-->	char cString[2];
