@@ -1,0 +1,26 @@
+Trabalho 1 - Multimídia (1sem - 2015)
+Professor: Dr. Marcelo Manzato
+Grupo:
+	Rafael Miranda Lopes	nUSP 6520554
+------------------------------------------------------
+
+Arquivos:
+	lzw.c
+	encoder.h
+	encoder.c
+	decoder.h
+	decoder.c
+	codecbase.h
+	codecbase.c
+	relatorio.txt
+	fix.txt
+------------------------------------------------------
+
+Instruções de compilação:
+
+-execute o seguinte comando, enquanto na respectiva pasta dos arquivos:
+	
+>	gcc -Wall *.c -o <nome>
+
+	(substitua <nome> pelo nome desejado para o executável)
+------------------------------------------------------
